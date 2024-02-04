@@ -1,0 +1,6 @@
+requests
+matplotlib
+bs4
+pandas
+datetime
+time
